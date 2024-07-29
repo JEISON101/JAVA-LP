@@ -21,6 +21,6 @@ public class Ejercicio3 {
         }else{
             System.out.println("el numero no es perfecto");
         }
-
+        scanner.close();
     }
 }
